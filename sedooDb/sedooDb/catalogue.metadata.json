@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"sedooDb.catalogue"}],"uuid":"910ca70adf8a4c258851aac87fc2ecf5"}
